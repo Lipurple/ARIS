@@ -19,7 +19,9 @@ https://drive.google.com/drive/folders/1GmZiTC5NSx-UnT0SwPeJQqjWtThc6yh-?usp=sha
 
 Comming soon....
 
-## Inference
+## Test
+
+Test set: https://drive.google.com/drive/folders/1GmZiTC5NSx-UnT0SwPeJQqjWtThc6yh-?usp=sharing
 
 ```bash
 python test_final.py --model hat+aris \
