@@ -48,4 +48,4 @@ If you use this code for your research or project, please cite:
     }
 	
 ## Acknowledgements
-Many thanks to the code bases from [IPT](https://github.com/huawei-noah/Pretrained-IPT), [ArbSR](https://github.com/The-Learning-And-Vision-Atelier-LAVA/ArbSR).
+Many thanks to the code bases from [IPT](https://github.com/huawei-noah/Pretrained-IPT), [HAT](https://github.com/XPixelGroup/HAT), [SwinIR](https://github.com/JingyunLiang/SwinIR).
